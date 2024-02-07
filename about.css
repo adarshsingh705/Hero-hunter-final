@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+  
+}
+
+#home{
+   color: white;
+  text-decoration: none;
+  font-size: large;
+  font-weight: 400;
+  transition: .2s ease-in-out;
+  margin-top: 5000px;
+}
+
+.info-container{
+  background-image: url("https://wallpapercave.com/wp/wp8931656.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  height:auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
