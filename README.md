@@ -27,7 +27,7 @@ To run this web page locally, follow these steps:
    
 2. Hosted link:
     ```
-    https://adarshsingh705.github.io/hero-hunter/
+    https://adarshsingh705.github.io/Hero-hunter-final/
 
    
 ## How to use
